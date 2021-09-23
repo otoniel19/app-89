@@ -6,4 +6,4 @@ app.get("/",(req,res) => {
   res.send("Ola mundo")
 })
 
-app.listen(port)
+app.listen(3000)
